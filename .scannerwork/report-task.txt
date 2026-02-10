@@ -1,0 +1,6 @@
+projectKey=static-analysis-lab
+serverUrl=http://localhost:9000
+serverVersion=26.2.0.119303
+dashboardUrl=http://localhost:9000/dashboard?id=static-analysis-lab
+ceTaskId=c8ccbf45-ba8d-4c81-8268-d9fff7db4172
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c8ccbf45-ba8d-4c81-8268-d9fff7db4172
